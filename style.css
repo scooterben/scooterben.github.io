@@ -166,7 +166,7 @@ details a { color: #111; }
 .team-avatar {
   width: 80px; height: 80px; border-radius: 50%;
   background: #ddd; margin: 0 auto 0.75rem;
-  overflow: hidden; display: flex; align-items: center; justify-content: center;
+  overflow: hidden; display: flex; align-items: left; justify-content: center;
   font-size: 1.5rem; color: #999;
 }
 .team-card h4 { font-size: 1rem; font-weight: 700; margin-bottom: 0.2rem; }
