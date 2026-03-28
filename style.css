@@ -161,7 +161,7 @@ details a { color: #111; }
 
 /* ── TEAM ── */
 .team-card {
-  text-align: center; margin-top: 2rem;
+  text-align: left; margin-top: 2rem;
 }
 .team-avatar {
   width: 80px; height: 80px; border-radius: 50%;
